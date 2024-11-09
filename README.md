@@ -6,7 +6,7 @@
 
 
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahm3dElgharbawy&label=Profile%20views&color=0e75b6&style=flat" alt="ahm3dElgharbawy" /> </p>
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/ahmed-elgharbawy-30706822b" target="_blank"><img src="https://img.shields.io/badge/-Ahmed %20Elgharbawy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
